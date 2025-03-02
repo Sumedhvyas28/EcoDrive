@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 
 Here are some screenshots of the app:
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](assets/screenshot1.png)
+![Screenshot 2](assets/screenshot2.png)
 
 ## Drive Link
 
