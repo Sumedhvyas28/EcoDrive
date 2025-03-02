@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Here are some screenshots of the app:
 
-![Screenshot 1](assets/screenshot1.png)
+![Screenshot 1](https://www.google.com/imgres?q=gbwgt&imgurl=https%3A%2F%2Fcdn.jetphotos.com%2F400%2F2%2F46279_1171190199.jpg&imgrefurl=https%3A%2F%2Fwww.jetphotos.com%2Fregistration%2FG-BWGT&docid=uWlSaPKttzevmM&tbnid=DayygJBAvtCQvM&vet=12ahUKEwihtYXQk-yLAxWVZvUHHWu8LCkQM3oECGYQAA..i&w=400&h=225&hcb=2&ved=2ahUKEwihtYXQk-yLAxWVZvUHHWu8LCkQM3oECGYQAA)
 ![Screenshot 2](assets/screenshot2.png)
 
 ## Drive Link
