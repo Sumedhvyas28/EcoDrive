@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171522220469",
+    "project_id": "vehicles-efficiency-app",
+    "storage_bucket": "vehicles-efficiency-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171522220469:android:046326a2422c1ec0fdb9fc",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_eco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDegHpV97v_3i4i0HDO686f0YYRIFPauJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171522220469:android:e4574658b03d150efdb9fc",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_economy_milleage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDegHpV97v_3i4i0HDO686f0YYRIFPauJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
